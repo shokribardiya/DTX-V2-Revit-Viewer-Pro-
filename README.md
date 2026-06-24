@@ -70,3 +70,9 @@ DTX V2 — Precision. Elegance. Insight.
 ---
 
 *For professionals seeking a powerful, independent Revit file inspection solution, DTX V2 sets a new standard in accessibility and sophistication.*
+
+##just 
+
+pip install pywebview 
+
+ run it in your cmd
